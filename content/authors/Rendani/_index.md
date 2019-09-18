@@ -53,9 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rendanim
-- icon: cv
-  icon_pack: ai
-  link: files/CV.pdf
+# - icon: cv
+ # icon_pack: ai
+  #link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
