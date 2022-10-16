@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Bayesian Neural Networks
+role: DeepMind Academic Fellow in Machine Learning
 
 # Organizations/Affiliations
 organizations:
-- name: University of Witwatersrand and  University of Johannesburg
+- name: Queen Mary Universiy of London and University of Witwatersrand 
   url: "http://www.wits.ac.za/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Rendani is a fellow of the Actuarial Society of South Africa and a Chartered Enterprise Risk Actuary. He holds a Bsc Honours in Actuarial Science from the University of Cape Town and an Msc in Machine Learning from KTH, Royal Institute of Technology in Sweden. Rendani currently works as a lecturer in the School of Actuarial Science and Statistics at the University of Witwatersrand while pursuing his PhD in Artificial Intelligence at the University of Johannesburg. 
+bio: Rendani is a fellow of the Actuarial Society of South Africa and a Chartered Enterprise Risk Actuary. He holds a Bsc Honours in Actuarial Science from the University of Cape Town and an Msc in Machine Learning from KTH, Royal Institute of Technology in Sweden. 
 Reearch interests:
 - Bayesian Neural Networks
 - Markov Chain Monte Carlo Methods
