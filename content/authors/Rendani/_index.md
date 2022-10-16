@@ -22,13 +22,15 @@ bio: Rendani is a fellow of the Actuarial Society of South Africa and a Chartere
 Reearch interests:
 - Bayesian Neural Networks
 - Markov Chain Monte Carlo Methods
-- Actuarial Risk Modeling
+- Actuarial Science
+- Climate Science
+- Graphical Models
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: University of Johannesburg
-    year: 2018 - Present
+    year: 2021
   - course: Msc in Computer Science and Engineering
     institution: KTH Royal Institute of Technology, Stockholm (Sweden)
     year: 2017
@@ -66,7 +68,6 @@ social:
 #- Researchers
 #- Visitors
 ---
+I am currently the DeepMind Academic Fellow in Machine Learning in the School of Electrical Engineering and Computer Science at the Queen Mary University of London and an Associate Professor in Actuarial Science at the University of Witwatersrand. I completed my PhD at the University of Johannesburg under the supervision of Professor [Tshilidzi Marwala](https://en.wikipedia.org/wiki/Tshilidzi_Marwala) and Dr [Ilyes Boulkaibet](https://scholar.google.co.za/citations?user=Syy1V1AAAAAJ&hl=en). I was a recipient of the 2019 Google Africa PhD fellowship, which supported my PhD work in Bayesian Neural Networks. 
 
-I am a fellow of the Actuarial Society of South Africa and a holder of the Chartered Enterprise Risk Actuary designation. I hold a Bsc Honours in Actuarial Science from the University of Cape Town and an Msc in Machine Learning from KTH, Royal Institute of Technology in Sweden. 
-
-I currently work as a lecturer in the School of Actuarial Science and Statistics at the University of Witwatersrand while pursuing my PhD in Artificial Intelligence under Professor [Tshilidzi Marwala](https://en.wikipedia.org/wiki/Tshilidzi_Marwala) and Dr [Ilyes Boulkaibet](https://scholar.google.co.za/citations?user=Syy1V1AAAAAJ&hl=en) at the University of Johannesburg. I am  recipient of the 2019 Google Africa PhD fellowship which supports my PhD work in Bayesian Neural Networks. I have previously worked as an Actuary at Discovery, Milliman and Barclays Africa Group.
+I am a fellow of the Actuarial Society of South Africa and a holder of the Chartered Enterprise Risk Actuary designation.

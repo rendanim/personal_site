@@ -49,13 +49,22 @@ Executive. The Product portfolio I managed had a total Lifetime Value (LTV) of c
   description = """Worked on an industry master thesis project titled “Bayesian Neural Networks for short term windpower forecasting"""
   
     [[experience]]
-  title = "Lecturer and Machine Learning Researcher"
+  title = "Lecturer"
   company = "University of Witwatersrand"
   company_url = ""
   location = "Johannesburg"
   date_start = "2017-07-01"
   date_end = ""
-  description = """Worked on an industry master thesis project titled “Bayesian Neural Networks for short term windpower forecasting"""
+  description = ""
+  
+      [[experience]]
+  title = "DeepMind Academic Fellow"
+  company = "Queen Mary University of London"
+  company_url = ""
+  location = "London"
+  date_start = "2022-03-01"
+  date_end = ""
+  description = ""
   
   
 
