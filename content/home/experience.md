@@ -49,7 +49,7 @@ Executive. The Product portfolio I managed had a total Lifetime Value (LTV) of c
   description = """Worked on an industry master thesis project titled “Bayesian Neural Networks for short term windpower forecasting"""
   
     [[experience]]
-  title = "Lecturer"
+  title = "Associate Professor"
   company = "University of Witwatersrand"
   company_url = ""
   location = "Johannesburg"

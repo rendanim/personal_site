@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "International Association of Consulting Actuaries"
+  organization_url = ""
+  title = "Best Paper Award "
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Google Research"
   organization_url = ""
   title = "Google PhD Fellowship"

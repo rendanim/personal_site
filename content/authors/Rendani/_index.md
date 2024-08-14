@@ -18,7 +18,7 @@ organizations:
   url: "http://www.wits.ac.za/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Rendani is a fellow of the Actuarial Society of South Africa and a Chartered Enterprise Risk Actuary. He holds a Bsc Honours in Actuarial Science from the University of Cape Town and an Msc in Machine Learning from KTH, Royal Institute of Technology in Sweden. 
+bio: Rendani is the Google DeepMind Academic Fellow in Machine Learning in the School of Electrical Engineering and Computer Science at the Queen Mary University of London and an Associate Professor in Actuarial Science at the University of Witwatersrand. My research centers around applications of machine learning in climate risk management.  
 Reearch interests:
 - Bayesian Neural Networks
 - Markov Chain Monte Carlo Methods
@@ -68,6 +68,9 @@ social:
 #- Researchers
 #- Visitors
 ---
-I am currently the DeepMind Academic Fellow in Machine Learning in the School of Electrical Engineering and Computer Science at the Queen Mary University of London and an Associate Professor in Actuarial Science at the University of Witwatersrand. I completed my PhD at the University of Johannesburg under the supervision of Professor [Tshilidzi Marwala](https://en.wikipedia.org/wiki/Tshilidzi_Marwala) and Dr [Ilyes Boulkaibet](https://scholar.google.co.za/citations?user=Syy1V1AAAAAJ&hl=en). I was a recipient of the 2019 Google Africa PhD fellowship, which supported my PhD work in Bayesian Neural Networks. 
+I am currently the Google DeepMind Academic Fellow in Machine Learning in the School of Electrical Engineering and Computer Science at the Queen Mary University of London and an Associate Professor in Actuarial Science at the University of Witwatersrand. My research centers around applications of machine learning in climate risk management. I am a Co-Founder of [AfriClimate AI](https://www.africlimate.ai/) a grassroots research community dedicated to harnessing the power of Artificial Intelligence for a sustainable, prosperous and climate-resilient Africa.
 
-I am a fellow of the Actuarial Society of South Africa and a holder of the Chartered Enterprise Risk Actuary designation.
+
+I completed my PhD at the University of Johannesburg under the supervision of Professor [Tshilidzi Marwala](https://en.wikipedia.org/wiki/Tshilidzi_Marwala) and Dr [Ilyes Boulkaibet](https://scholar.google.co.za/citations?user=Syy1V1AAAAAJ&hl=en) concentrating on Shadow Hamiltonian Monte Carlo Methods within Bayesian Neural Networks. I was a recipient of the 2019 Google Africa PhD fellowship, which supported my PhD work. I am the author of the book [Hamiltonian Monte Carlo Methods in Machine Learning](https://www.sciencedirect.com/book/9780443190353/hamiltonian-monte-carlo-methods-in-machine-learning).
+
+I am a qualified actuary holding fellowships of Institute and Faculty of Actuaries and  the Actuarial Society of South Africa.
