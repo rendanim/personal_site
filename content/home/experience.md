@@ -63,9 +63,17 @@ Executive. The Product portfolio I managed had a total Lifetime Value (LTV) of c
   company_url = ""
   location = "London"
   date_start = "2022-03-01"
-  date_end = ""
+  date_end = "2024-12-31"
   description = ""
   
-  
+  [[experience]]
+  title = "Associate Professor"
+  company = "The University of Manchester"
+  company_url = ""
+  location = "Manchester, UK"
+  date_start = "2025-01-01"
+  date_end = ""
+  description = ""
+   
 
 +++

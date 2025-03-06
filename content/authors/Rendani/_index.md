@@ -10,16 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: DeepMind Academic Fellow in Machine Learning
+role: Associate Professor In Actuarial Science
 
 # Organizations/Affiliations
 organizations:
-- name: Queen Mary Universiy of London and University of Witwatersrand 
-  url: "http://www.wits.ac.za/"
+- name: University of Manchester 
+  url: "https://www.manchester.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Rendani is the Google DeepMind Academic Fellow in Machine Learning in the School of Electrical Engineering and Computer Science at the Queen Mary University of London and an Associate Professor in Actuarial Science at the University of Witwatersrand. My research centers around applications of machine learning in climate risk management.  
-Reearch interests:
+bio: I am currently Associate Professor in Actuarial Science in the Department of Mathematics at the University of Manchester.
+Research interests:
 - Bayesian Neural Networks
 - Markov Chain Monte Carlo Methods
 - Actuarial Science
