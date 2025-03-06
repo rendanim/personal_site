@@ -68,7 +68,9 @@ social:
 #- Researchers
 #- Visitors
 ---
-I am currently the Google DeepMind Academic Fellow in Machine Learning in the School of Electrical Engineering and Computer Science at the Queen Mary University of London and an Associate Professor in Actuarial Science at the University of Witwatersrand. My research centers around applications of machine learning in climate risk management. I am a Co-Founder of [AfriClimate AI](https://www.africlimate.ai/) a grassroots research community dedicated to harnessing the power of Artificial Intelligence for a sustainable, prosperous and climate-resilient Africa.
+I am currently Associate Professor in Actuarial Science in the Department of Mathematics at the University of Manchester. My research centers around applications of machine learning in climate risk management. I am a Co-Founder of [AfriClimate AI](https://www.africlimate.ai/) a grassroots research community dedicated to harnessing the power of Artificial Intelligence for a sustainable, prosperous and climate-resilient Africa.
+
+I was previously the Google DeepMind Academic Fellow in Machine Learning in the School of Electrical Engineering and Computer Science at the Queen Mary University of London and an Associate Professor in Actuarial Science at the University of Witwatersrand.
 
 
 I completed my PhD at the University of Johannesburg under the supervision of Professor [Tshilidzi Marwala](https://en.wikipedia.org/wiki/Tshilidzi_Marwala) and Dr [Ilyes Boulkaibet](https://scholar.google.co.za/citations?user=Syy1V1AAAAAJ&hl=en) concentrating on Shadow Hamiltonian Monte Carlo Methods within Bayesian Neural Networks. I was a recipient of the 2019 Google Africa PhD fellowship, which supported my PhD work. I am the author of the book [Hamiltonian Monte Carlo Methods in Machine Learning](https://www.sciencedirect.com/book/9780443190353/hamiltonian-monte-carlo-methods-in-machine-learning).
